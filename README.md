@@ -1,4 +1,4 @@
-# My First Repository
+# My First Repository.
 
 ## Description
 CSE103 lab repository -LAB 3.
